@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-KOOK is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.kookapp.cn/
+KOOK is a voice communication platform designed for gamers and communities, offering high-quality audio, low latency, and features such as server creation, screen sharing, and noise reduction. It supports PC, Android, iOS, and web clients, enabling users to create themed servers for gaming, music, reading, language exchange, and more, fostering seamless real-time interaction across devices.
+
+**Areas:** Company · Voice Communication · Gaming · Community · Real-time
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.kookapp.cn/)
+- [Documentation](https://developer.kookapp.cn/)
+- [Terms of service](https://www.kookapp.cn/protocol.html)
+- [Privacy policy](https://www.kookapp.cn/privacy.html)
+
+**APIs profiled:** 4
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/kook/](https://apis.io/providers/kook/).
